@@ -6,6 +6,9 @@ print(dict1)
 # Edit
 dict1["name"] = 'Tazy'
 print(dict1)
+# Removing
+del dict1["name"] 
+print(dict1)
 # Looping
 for (_,v) in dict1.items() :
     print(v)

@@ -29,7 +29,6 @@ logo = '''
                       /_______________\\
 '''
 bids = []
-moreBidders = False
 from os import system as sys
 #os.system('cls')
 print('Welcome to the secret auction program.')
